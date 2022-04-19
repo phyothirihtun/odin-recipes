@@ -1,0 +1,17 @@
+img{
+    width: 300px;
+    height: 200xpx;
+}
+p{
+    width: 600px;
+}
+ul{
+    width: 600px;
+}
+ol{
+    width: 600px;
+}
+h1,h2,h3{
+    display: flex;
+    justify-content: space-between;
+}
